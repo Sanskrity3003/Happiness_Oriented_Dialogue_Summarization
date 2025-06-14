@@ -41,5 +41,5 @@ If you wish to cite this work in your research, please use the following:
   booktitle={2025 IEEE International Conference on Computational Intelligence},
   year={2025},
   publisher={IEEE},
-  doi={10.1109/XYZ.2025.10984314}
+  doi={10.1109/ICE63309.2025.10984314}
 }
