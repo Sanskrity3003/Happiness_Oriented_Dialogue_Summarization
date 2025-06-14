@@ -24,7 +24,7 @@ This research focuses on improving the emotional tone of dialogue summarization 
 
 ## 🔐 Code & Dataset
 
-The source code and dataset are part of a private academic submission and are **not publicly available** at this time due to university policy and authorship protection.
+The source code and dataset are part of a private academic submission and are **not publicly available** at this time due to authorship protection.
 
 If you are a reviewer, collaborator, or research peer and would like access, please feel free to contact me via email.
 
