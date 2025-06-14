@@ -30,6 +30,10 @@ If you are a reviewer, collaborator, or research peer and would like access, ple
 
 ---
 
+## 📫 Contact
+
+For inquiries: [sensex3003@gmail.com](mailto:sensex3003@gmail.com)
+--- 
 ## 📄 Citation
 
 If you wish to cite this work in your research, please use the following:
